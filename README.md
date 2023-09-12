@@ -44,7 +44,8 @@ RegisterNumber: 212222040093
 
 ## Output:
 ![best fit line](sam.png)
-![Screenshot (16)](https://github.com/MaheshMuthuL/Find-the-best-fit-line-using-Least-Squares-Method/assets/135570619/69f8f895-d5b5-4092-86d5-7795b6ad6bb3)
+![experiment 1 ml(mahesh)](https://github.com/MaheshMuthuL/Find-the-best-fit-line-using-Least-Squares-Method/assets/135570619/1bf6fab4-19c7-46d6-9188-35f77d5ff498)
+
 
 
 

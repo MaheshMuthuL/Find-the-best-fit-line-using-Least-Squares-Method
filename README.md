@@ -1,3 +1,4 @@
+
 # Implementation of Univariate Linear Regression
 ## AIM:
 To implement univariate Linear Regression to fit a straight line using least squares.
@@ -43,7 +44,7 @@ RegisterNumber: 212222040093
 ```
 
 ## Output:
-![best fit line](sam.png)
+
 ![experiment 1 ml(mahesh)](https://github.com/MaheshMuthuL/Find-the-best-fit-line-using-Least-Squares-Method/assets/135570619/1bf6fab4-19c7-46d6-9188-35f77d5ff498)
 
 
